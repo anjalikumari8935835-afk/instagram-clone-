@@ -4,7 +4,7 @@ A simple **Instagram Login Page Clone** built using **HTML5 and CSS3**. This pro
 
 ## 📸 Preview
 
-![Instagram Clone Banner](assets/instagram-clone-banner.png)
+![Instagram Clone Banner](assets/banner.png)
 
 ## ✨ Features
 
